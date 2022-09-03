@@ -1,6 +1,6 @@
 # A manual syscall lib 
 
-A small libary to execute shellcode manually from .net application. 
+A small libary to execute shellcode manually from .net application. <br>
 This small libary allows you to make syscalls based on following patterns :
 
 x64 :
@@ -14,7 +14,6 @@ retn
 
 x86 :
 
-<br>
 
 ```assembly
 ;dump from IDA
