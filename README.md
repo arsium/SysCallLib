@@ -56,11 +56,6 @@ ntAlloc.AllocateShellCode();
 NtAllocateVirtualMemory ntAllocDel = (NtAllocateVirtualMemory)Marshal.GetDelegateForFunctionPointer(ntAlloc.allocatedShellCode, typeof(NtAllocateVirtualMemory));
 ```
 
-
-
 Ref :
 
-
-
-[malwaretech]: https://www.malwaretech.com/2015/07/windows-10-system-call-stub-changes.html	"malwaretech"
-
+[malwaretech]: (https://www.malwaretech.com/2015/07/windows-10-system-call-stub-changes.html)	"malwaretech"
