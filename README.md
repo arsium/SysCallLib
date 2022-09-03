@@ -60,3 +60,4 @@ NtAllocateVirtualMemory ntAllocDel = (NtAllocateVirtualMemory)Marshal.GetDelegat
 Ref :
 * [malwaretech](https://www.malwaretech.com/2015/07/windows-10-system-call-stub-changes.html)
 * [unknowncheats](https://www.unknowncheats.me/forum/assembly/148398-manual-syscalls-using-assembly-x64.html)
+* [gist syscall stub](https://gist.github.com/wbenny/b08ef73b35782a1f57069dff2327ee4d)
