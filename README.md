@@ -57,4 +57,4 @@ NtAllocateVirtualMemory ntAllocDel = (NtAllocateVirtualMemory)Marshal.GetDelegat
 ```
 
 Ref :
-[malwaretech]([https://www.google.com](https://www.malwaretech.com/2015/07/windows-10-system-call-stub-changes.html)
+[malwaretech](https://www.malwaretech.com/2015/07/windows-10-system-call-stub-changes.html)
