@@ -1,0 +1,13 @@
+F:\$$$$$\SysCallLib\Test\bin\Release\Test.exe.config
+F:\$$$$$\SysCallLib\Test\bin\Release\Test.exe
+F:\$$$$$\SysCallLib\Test\bin\Release\Test.pdb
+F:\$$$$$\SysCallLib\Test\bin\Release\SysCallLib.dll
+F:\$$$$$\SysCallLib\Test\bin\Release\SysCallLib.pdb
+F:\$$$$$\SysCallLib\Test\obj\Release\Test.csproj.AssemblyReference.cache
+F:\$$$$$\SysCallLib\Test\obj\Release\Test.Form1.resources
+F:\$$$$$\SysCallLib\Test\obj\Release\Test.Properties.Resources.resources
+F:\$$$$$\SysCallLib\Test\obj\Release\Test.csproj.GenerateResource.cache
+F:\$$$$$\SysCallLib\Test\obj\Release\Test.csproj.CoreCompileInputs.cache
+F:\$$$$$\SysCallLib\Test\obj\Release\Test.csproj.CopyComplete
+F:\$$$$$\SysCallLib\Test\obj\Release\Test.exe
+F:\$$$$$\SysCallLib\Test\obj\Release\Test.pdb

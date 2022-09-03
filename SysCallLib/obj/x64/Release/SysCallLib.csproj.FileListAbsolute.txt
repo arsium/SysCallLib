@@ -1,0 +1,6 @@
+F:\$$$$$\SysCallLib\SysCallLib\bin\x64\Release\SysCallLib.dll
+F:\$$$$$\SysCallLib\SysCallLib\bin\x64\Release\SysCallLib.pdb
+F:\$$$$$\SysCallLib\SysCallLib\obj\x64\Release\SysCallLib.csproj.AssemblyReference.cache
+F:\$$$$$\SysCallLib\SysCallLib\obj\x64\Release\SysCallLib.csproj.CoreCompileInputs.cache
+F:\$$$$$\SysCallLib\SysCallLib\obj\x64\Release\SysCallLib.dll
+F:\$$$$$\SysCallLib\SysCallLib\obj\x64\Release\SysCallLib.pdb
