@@ -33,8 +33,12 @@ Some explainations are required for x86. Windows X86 or WoW64 changes pattern of
 
 This "Wow64SystemServiceCall" calls an exported DWORD called "WoW64Transition" that contains an address to switch to X64 syscall mode.
 
-Same as :
+![PIC1](https://github.com/arsium/SysCallLib/blob/main/Pictures/1_32.png?raw=true)
+![PIC1](https://github.com/arsium/SysCallLib/blob/main/Pictures/1_32_2.png?raw=true)
+![PIC1](https://github.com/arsium/SysCallLib/blob/main/Pictures/3_32.png?raw=true)
+![PIC1](https://github.com/arsium/SysCallLib/blob/main/Pictures/6_32.png?raw=true)
 
+Same as :
 
 
 ```assembly
