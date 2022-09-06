@@ -52,6 +52,16 @@ This address in "WoW64Transition" is dynamic so it needs to be resolved every ti
 Sample of uses :
 
 ```csharp
+[UnmanagedFunctionPointer(CallingConvention.Cdecl)]
+internal delegate NtStatus NtAllocateVirtualMemory
+(
+   IntPtr ProcessHandle,
+   ref IntPtr BaseAddress,
+   IntPtr ZeroBits,
+   ref uint RegionSize,
+   MemoryAllocationType AllocationType,
+   PageAccessType Protect
+);
 SysCallLib.ManualSyscall ntAlloc = new SysCallLib.ManualSyscall("ntdll.dll", "NtAllocateVirtualMemory", true);
 ntAlloc.AllocateShellCode();
 NtAllocateVirtualMemory ntAllocDel = (NtAllocateVirtualMemory)Marshal.GetDelegateForFunctionPointer(ntAlloc.allocatedShellCode, typeof(NtAllocateVirtualMemory));
