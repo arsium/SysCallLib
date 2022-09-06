@@ -53,7 +53,7 @@ Sample of uses :
 
 ```csharp
 [UnmanagedFunctionPointer(CallingConvention.Cdecl)]
-internal delegate NtStatus NtAllocateVirtualMemory
+internal delegate uint NtAllocateVirtualMemory
 (
    IntPtr ProcessHandle,
    ref IntPtr BaseAddress,
