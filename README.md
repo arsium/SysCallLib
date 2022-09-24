@@ -1,6 +1,6 @@
 # A manual syscall lib 
 
-A small libary to execute shellcode manually from .net application. <br>
+A small libary to execute shellcode manually from .net application. Useful for red teams.<br>
 This small libary allows you to make syscalls based on following patterns :
 
 x64 :
